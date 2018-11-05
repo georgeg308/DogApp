@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "128752799000",
+    "firebase_url": "https://dogapp-2ea6a.firebaseio.com",
+    "project_id": "dogapp-2ea6a",
+    "storage_bucket": "dogapp-2ea6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128752799000:android:7e1df4b5330adef2",
+        "android_client_info": {
+          "package_name": "com.example.georgeg308.assignment4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128752799000-kr30t5jaebprcdsq836fu157bihuv62b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSfa4lSB59e0sdQorZH3g56Xa7PexrE8s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128752799000:android:384bcd882f32c046",
+        "android_client_info": {
+          "package_name": "com.example.georgeg308.dogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128752799000-kr30t5jaebprcdsq836fu157bihuv62b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSfa4lSB59e0sdQorZH3g56Xa7PexrE8s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
